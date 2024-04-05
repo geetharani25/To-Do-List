@@ -1,0 +1,21 @@
+.user-container {
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.user-container h3 {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.user-container ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.user-container li {
+    margin-bottom: 5px;
+}

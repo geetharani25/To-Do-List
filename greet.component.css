@@ -1,0 +1,51 @@
+.task {
+    margin: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: rgba(187, 164, 187, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+    color: #510d33;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 2px 2px 4px #333;
+    font-size: 36px;
+}
+
+h2 {
+    color: #510d33;
+    text-align: center;
+}
+
+button {
+    padding: 12px 24px;
+    background-color: #510d33;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    margin: 20px auto;
+    display: block;
+    transition:all 0.3s ease;
+}
+
+button:hover {
+    background-color: #998ca9;
+}
+
+input[type="text"] {
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    width: 70%;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+}
